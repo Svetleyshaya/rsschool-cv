@@ -46,14 +46,14 @@ ___
 ___
 
 ### Code example:
-``` html
+```
 <header>
     <div class="container">
         <div class="heading clearfix">
             <img src="img/logo.jpg" alt="Логотип" class="logo">
             <nav>
                 <ul class="menu">
-                    
+
                     <li>
                     <a href="#">О нас</a>
                     </li>
