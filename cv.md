@@ -34,7 +34,7 @@ ___
 ![Certificate](\img\cert-1024-11126081.jpg)
 ___
 ### Code example:
-```html
+``` html
 <header>
     <div class="container">
         <div class="heading clearfix">
