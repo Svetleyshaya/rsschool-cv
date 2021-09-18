@@ -24,14 +24,7 @@ ___
 - Read and interpret technical drawings, computer-generated reports
 ___
 ### Courses:
-+ Sololearn HTML
-![Certificate](\img\cert-1014-11126081.jpg)
-+ Sololearn CSS
-![Certificate](\img\cert-1023-11126081.jpg)
-+ Sololearn SQL
-![Certificate](\img\cert-1060-11126081.jpg)
-+ Sololearn JavaScript
-![Certificate](\img\cert-1024-11126081.jpg)
+
 ___
 ### Code example:
 ```html
