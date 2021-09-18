@@ -35,65 +35,25 @@ ___
 
 ### Courses:
 + Sololearn HTML
-![Certificate](\img\cert-1014-11126081.jpg)
+![Certificate](.\img\cert-1014-11126081.jpg)
 + Sololearn CSS
-![Certificate](\img\cert-1023-11126081.jpg)
+![Certificate](.\img\cert-1023-11126081.jpg)
 + Sololearn SQL
-![Certificate](\img\cert-1060-11126081.jpg)
+![Certificate](.\img\cert-1060-11126081.jpg)
 + Sololearn JavaScript
-![Certificate](\img\cert-1024-11126081.jpg)
+![Certificate](.\img\cert-1024-11126081.jpg)
 
 ___
 
 ### Code example:
-```
-<header>
-    <div class="container">
-        <div class="heading clearfix">
-            <img src="img/logo.jpg" alt="Логотип" class="logo">
-            <nav>
-                <ul class="menu">
-
-                    <li>
-                    <a href="#">О нас</a>
-                    </li>
-
-                    <li>
-                    <a href="#">КотоBreeds</a>
-                    </li>
-
-                    <li>
-                    <a href="#">КотоGalery</a>
-                    </li>
-
-                    <li>
-                    <a href="#">КотoInteresting</a>
-                    </li>
-
-                    <li>
-                    <a href="#">КотоForum</a>
-                    </li>
-
-                    <li>
-                    <a href="#">КотоAds</a>
-                    </li>
-
-                    <li>
-                    <a href="#">Котоfun</a>
-                    </li>
-
-                </ul>
-            </nav>
-        </div>
-
-        <div class="titles">
-        </div>
-        <h1>Без кота и жизнь не та ^.^
-        </h1>
-        <h2>Согласен? Добро пожаловать!</h2>
-        </div>
-</header>
-
+```css
+.titles h2 {
+	font-size: 25px;
+	color: #fff;
+	text-align: center;
+	margin-top: 0;
+	justify-content:center;
+}
 ```
 
 ___
