@@ -1,7 +1,7 @@
 # Svetlana Terekhina
 __Front-end developer__
 __Location:__ _Tver, Russia_
-___
+
 ## Contacts:
 + __Phone:__ [+7 (950) 047-45-97](tel:+79500474597)
 + __E-mail:__ [svetusik_1991@mail.ru](svetusik_1991@mail.ru)
