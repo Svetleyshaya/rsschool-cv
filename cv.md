@@ -53,46 +53,47 @@ ___
             <img src="img/logo.jpg" alt="Логотип" class="logo">
             <nav>
                 <ul class="menu">
+                    
                     <li>
-                        <a href="#">О нас</a>
-
+                    <a href="#">О нас</a>
                     </li>
-                    <li>
-                        <a href="#">КотоBreeds</a>
 
+                    <li>
+                    <a href="#">КотоBreeds</a>
                     </li>
-                    <li>
-                        <a href="#">КотоGalery</a>
 
+                    <li>
+                    <a href="#">КотоGalery</a>
                     </li>
-                    <li>
-                        <a href="#">КотoInteresting</a>
 
+                    <li>
+                    <a href="#">КотoInteresting</a>
                     </li>
-                    <li>
-                        <a href="#">КотоForum</a>
 
+                    <li>
+                    <a href="#">КотоForum</a>
                     </li>
-                    <li>
-                        <a href="#">КотоAds</a>
 
+                    <li>
+                    <a href="#">КотоAds</a>
                     </li>
-                    <li>
-                        <a href="#">Котоfun</a>
 
+                    <li>
+                    <a href="#">Котоfun</a>
                     </li>
 
                 </ul>
             </nav>
         </div>
+
         <div class="titles">
         </div>
         <h1>Без кота и жизнь не та ^.^
         </h1>
         <h2>Согласен? Добро пожаловать!</h2>
-    </div>
+        </div>
 </header>
-			
+
 ```
 
 ___
